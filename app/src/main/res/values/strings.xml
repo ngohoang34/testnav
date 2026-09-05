@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test Nav</string>
+
+    <string name="accessibility_description">
+        Đọc thông tin điều hướng từ Google Maps
+    </string>
+
+</resources>
